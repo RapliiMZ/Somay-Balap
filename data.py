@@ -1,1 +1,1 @@
-print ('nama gw siapa')
+print ('sayang nisa banyak2')
