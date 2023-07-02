@@ -1,2 +1,2 @@
 print ('nama gw rapli')
-print ('Kalo gw Nisa')
+print ('Kalo gw Nisa dan nadiva')
