@@ -1,1 +1,1 @@
-print ('nama gw rapli')
+print ('nama gw rapli jaki, aku sayang loli')
