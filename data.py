@@ -1,1 +1,1 @@
-print ('sayang nisa banyak2')
+print ('sampai jumpa di hari sabtwu :3')
